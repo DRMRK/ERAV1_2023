@@ -1,13 +1,7 @@
-from torchvision import datasets, transforms
 from tqdm import tqdm
-
 
 import torch
 import matplotlib.pyplot as plt
-
-
-
-
 
 
 def GetCorrectPredCount(pPrediction, pLabels):
