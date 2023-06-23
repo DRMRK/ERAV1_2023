@@ -6,7 +6,7 @@
 
 - **utils.py**: This files contains utility functions to train, test and show model performances.
 
-- **S5.ipynb**: This jupyter notebook provides an interactive environment for executing the code. It demonstrates the step-by-step process of loading the MNIST dataset, training the neural network models, and evaluating the classification performance and visualize the results.
+- **S7-codes.ipynb**: This jupyter notebook provides an interactive environment for executing the code. It demonstrates the step-by-step process of loading the MNIST dataset, training the neural network models, and evaluating the classification performance and visualize the results.
 
 ### **Requirements** 
 
