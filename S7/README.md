@@ -1,4 +1,4 @@
-# ERAV1_2023 Assignment S5 QnA
+# ERAV1_2023 Assignment S7 QnA
 > This repository contains example code for classifying the MNIST dataset using neural networks. The code is implemented in Python using the PyTorch framework.
 
 ### **Files**
